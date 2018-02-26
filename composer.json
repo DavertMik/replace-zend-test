@@ -1,0 +1,8 @@
+{
+    "name": "davert/replace-zend-test",
+    "description": "Remove zend test dependency for Codeception tests",
+    "type": "metapackage",
+    "replace": {
+      "zendframework/zend-test": "*"
+    }
+}
